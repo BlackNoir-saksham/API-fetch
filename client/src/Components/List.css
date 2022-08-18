@@ -1,0 +1,25 @@
+.data{
+    display: grid;
+    grid-template-columns: 4rem  0.6fr 0.7fr 0.8fr  0.8fr 0.7fr 0.6fr 15rem;
+    /* width: 100%; */
+    border: 1px solid rgb(212, 209, 209);
+    box-shadow: 1px 2px rgb(222, 222, 222);
+}
+
+.item{
+    text-align: center;
+    margin: auto;
+
+}
+.list h4{
+    font-weight: 550;
+    font-size: 16px;
+}
+.item8 h4{
+    font-size: 17px;
+    font-weight: 700;
+}
+.item8 h6{
+    font-size: 13px;
+    font-weight: 500;
+}
